@@ -40,4 +40,5 @@ You can generate it by running the notebook.
 👨‍💻 Author
 
 T . Perarasu
+B.Tech.Artificial Intelligence & Data Science
 
